@@ -2,4 +2,4 @@
 generative, iterative, inceptive, art(?)
 
 
-![](outputs/gifs/cloud_conversations.gif)
+![](magritte/cloud_conversations.gif)

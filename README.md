@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 
-<center><span style="font-family:frutiger; font-size:3.3em;"> précis:</span>
-    </center>  
+<center>
+<span style="font-family:frutiger; font-size:3.3em;"> précis:
+</span> </center>  
     
-<span style="font-family:verdana; font-size:1em;"> generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? <span>  
+
+<span style="font-family:verdana; font-size:1em;"> 
+    generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? 
+<span>  
     
     
 - everything here is made with [Processing.py](https://py.processing.org/)
@@ -15,12 +19,15 @@
 <span style="font-family:metronova; font-size:2em;"> The Art of Conversation </span>  
 <span style="font-family:metronova; font-size:1.3em">    RENÉ MAGRITTE</span>
 <hr>
+    
+    
 ![](magritte/cloud_conversations.gif)
 
-    
     
     
 <span style="font-family:metronova; font-size:1.8em;">M obile Rouge Sur Blanc</span>  
 <span style="font-family:metronova; font-size:1.3em">    JULIO LE PARC</span>
 <hr>
-![](squa\[red\]/squa\[red\].gif)
+    
+   
+![](squa\[red\]/squa\[red\]_dark.gif)

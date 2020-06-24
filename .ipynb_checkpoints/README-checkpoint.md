@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <center><span style="font-family:frutiger; font-size:3.3em;"> précis:</span>
     </center>  
     
@@ -8,7 +10,6 @@
 - note that modifications must be Jython-friendly (no numpy, no f-strings, etc.)
 - with default setup (no command line), all `.py` files should be run as `.pde` files
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
-    
     
     
 <span style="font-family:metronova; font-size:2em;"> The Art of Conversation </span>  

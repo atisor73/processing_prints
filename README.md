@@ -23,4 +23,4 @@
 ![](squa\[red\]/squa\[red\]_ppl.gif)
 
 ## The Red Act
-![](squa\[red\]/squa\[red\]_ppl.gif)
+![](redact/redact.gif)

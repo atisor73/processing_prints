@@ -15,8 +15,8 @@
   
 ![](magritte/cloud_conversations.gif)
 
-## Mobile Rouge Sur Blanc [[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)
-### JULIO LE PARC]
+## Mobile Rouge Sur Blanc \[[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)\]
+### JULIO LE PARC
    
 ![](squa\[red\]/squa\[red\]_dark.gif)
 ![](squa\[red\]/squa\[red\]_ppl.gif)

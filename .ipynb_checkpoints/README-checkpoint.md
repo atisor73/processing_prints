@@ -1,9 +1,5 @@
-# <center> précis:</center> 
-<br />
-<span style="font-family:verdana; font-size:1em;"> 
-    generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? 
-<span>  
-    
+# Précis: 
+##### generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art?     
     
 - everything here is made with [Processing.py](https://py.processing.org/)
 - note that modifications must be Jython-friendly (no numpy, no f-strings, etc.)
@@ -11,25 +7,16 @@
     
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
  
-
-<span style="font-family:metronova; font-size:2em;"> 
-    The Art of Conversation</span>  <br />
-<span style="font-family:metronova; font-size:1.3em">    
-    RENÉ MAGRITTE</span>
-    
+## The Art of Conversation 
+<br />
+RENÉ MAGRITTE
 <hr>
-    
-    
+  
 ![](magritte/cloud_conversations.gif)
 
-    
-    
-<span style="font-family:metronova; font-size:1.8em;">
-    Mobile Rouge Sur Blanc</span>  <br />
-<span style="font-family:metronova; font-size:1.3em">    
-    JULIO LE PARC</span>
-    
+## Mobile Rouge Sur Blanc
+<br />
+JULIO LE PARC
 <hr>
-    
    
 ![](squa\[red\]/squa\[red\]_dark.gif)

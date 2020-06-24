@@ -1,5 +1,5 @@
-<center><span> précis:</span></center>  
-
+# <center> précis:</center> 
+<br />
 <span style="font-family:verdana; font-size:1em;"> 
     generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? 
 <span>  

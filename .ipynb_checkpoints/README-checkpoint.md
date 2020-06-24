@@ -1,6 +1,8 @@
 <center><span style="font-family:frutiger; font-size:3.3em;"> précis:</span>
-    </center>
-<span style="font-family:verdana; font-size:1em;"> generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? <span>
+    </center>  
+    
+<span style="font-family:verdana; font-size:1em;"> generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? <span>  
+    
     
 - everything here is made with [Processing.py](https://py.processing.org/)
 - note that modifications must be Jython-friendly (no numpy, no f-strings, etc.)

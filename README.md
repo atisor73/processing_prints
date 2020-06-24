@@ -7,12 +7,12 @@
     
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
  
-## The Art of Conversation  
-## RENÉ MAGRITTE
+### The Art of Conversation 
+### RENÉ MAGRITTE
   
 ![](magritte/cloud_conversations.gif)
 
-## Mobile Rouge Sur Blanc  
-## JULIO LE PARC
+### Mobile Rouge Sur Blanc  
+### JULIO LE PARC
    
 ![](squa\[red\]/squa\[red\]_dark.gif)

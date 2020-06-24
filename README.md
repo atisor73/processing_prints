@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 
-<center>
-<span style="font-family:frutiger; font-size:3.3em;"> précis:
-</span> </center>  
-    
+<center><span style="font-family:frutiger; font-size:3.3em;"> précis:</span></center>  
 
 <span style="font-family:verdana; font-size:1em;"> 
     generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art? 
@@ -15,11 +12,10 @@
 - with default setup (no command line), all `.py` files should be run as `.pde` files
     
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
-    
-    
+ 
+
 <span style="font-family:metronova; font-size:2em;"> 
-    The Art of Conversation </span>  
-    
+    The Art of Conversation</span>  <br />
 <span style="font-family:metronova; font-size:1.3em">    
     RENÉ MAGRITTE</span>
     
@@ -31,8 +27,7 @@
     
     
 <span style="font-family:metronova; font-size:1.8em;">
-    Mobile Rouge Sur Blanc</span>  
-    
+    Mobile Rouge Sur Blanc</span>  <br />
 <span style="font-family:metronova; font-size:1.3em">    
     JULIO LE PARC</span>
     

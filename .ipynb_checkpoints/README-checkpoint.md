@@ -17,9 +17,7 @@
 ![](magritte/cloud_conversations.gif)  
 
 
-[`asdf`](ex.com)
-:open_file_folder: [`magritte/`](https://github.com/atisor73/processing_prints/tree/master/magritte)
-
+:open_file_folder: `magritte/`
 
 ## Mobile Rouge Sur Blanc \[[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)\]  
 ### JULIO LE PARC 
@@ -27,19 +25,17 @@
 ![](squa\[red\]/squa\[red\]_dark.gif)
 ![](squa\[red\]/squa\[red\]_ppl.gif)  
 
-:open_file_folder: [`squa[red]/`](https://github.com/atisor73/processing_prints/tree/master/squa%5Bred%5D)
-
+:open_file_folder: `squa[red]/`
 
 
 ## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\]  
 ### JULIO LE PARC  
 ![](xxx/stills/cc4.png)
-<img src="xxx/gifs/xxx_replica_motion.gif" width=810>
+<img src="xxx/gifs/xxx_replica_motion.gif" width=820>
 
-:open_file_folder: [`xxx/`](https://github.com/atisor73/processing_prints/tree/master/xxx)
-
+:open_file_folder: `xxx/`
 
 ## The Red Act  
 ![](redact/redact.gif)
 
-:open_file_folder: [`redact/`](https://github.com/atisor73/processing_prints/tree/master/redact)
+:open_file_folder: `redact/`

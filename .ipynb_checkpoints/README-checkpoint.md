@@ -30,7 +30,7 @@
 ## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\]  
 ### JULIO LE PARC  
 ![](xxx/stills/cc4.png)
-![](xxx/gifs/xxx_replica_motion.gif)
+![](xxx/gifs/replace.gif)
 
 :open_file_folder: `xxx/`
 

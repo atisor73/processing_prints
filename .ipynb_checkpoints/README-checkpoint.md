@@ -15,6 +15,7 @@
 ### RENÉ MAGRITTE  
   
 ![](magritte/cloud_conversations.gif)  
+
 :open_file_folder: `magritte/`
 
 
@@ -23,6 +24,7 @@
    
 ![](squa\[red\]/squa\[red\]_dark.gif)
 ![](squa\[red\]/squa\[red\]_ppl.gif)  
+
 :open_file_folder: `squa[red]/`
 
 

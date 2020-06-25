@@ -9,12 +9,12 @@
 ![](stills/cc2.png){:height="70%" width="70%"}
 ![](stills/cc1.png){:height="70%" width="70%"} -->
 
-<img src="stills/cc9.png" width="400" height="400">
-<img src="stills/cc8.png" width="400" height="400">
-<img src="stills/cc7.png" width="400" height="400">
-<img src="stills/cc6.png" width="400" height="400">
-<img src="stills/cc5.png" width="400" height="400">
-<img src="stills/cc4.png" width="400" height="400">
-<img src="stills/cc3.png" width="400" height="400">
-<img src="stills/cc2.png" width="400" height="400">
-<img src="stills/cc1.png" width="400" height="400">
+<img src="stills/cc9.png" width="600" height="600">
+<img src="stills/cc8.png" width="600" height="600">
+<img src="stills/cc7.png" width="600" height="600">
+<img src="stills/cc6.png" width="600" height="600">
+<img src="stills/cc5.png" width="600" height="600">
+<img src="stills/cc4.png" width="600" height="600">
+<img src="stills/cc3.png" width="600" height="600">
+<img src="stills/cc2.png" width="600" height="600">
+<img src="stills/cc1.png" width="600" height="600">

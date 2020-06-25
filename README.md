@@ -1,8 +1,8 @@
 # Précis: 
 *generative, iterative, anti-narrative, anti-figurative, commiserative, curative... art?*   
     
-
 - a record of teaching my computer to draw
+- after constantly running out of storage, this repo will serve as a digital sketchbook 
 - the first week will be dedicated to learning the basics with Julio Le Parc's work
 - everything here is made with [Processing.py](https://py.processing.org/)
 - note that modifications must be Jython-friendly (no numpy, no f-strings, etc.)

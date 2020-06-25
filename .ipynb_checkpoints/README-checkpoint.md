@@ -10,6 +10,7 @@
 - `IMAGEMAGICK` is used to convert folders of `.png's` to `.gif's`
     
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
+# Sketchbook:
  
 ## The Art of Conversation \[[original](http://imagespoetrysilence.blogspot.com/2018/01/the-art-of-conversation-by-rene.html)\]  
 ### RENÉ MAGRITTE  

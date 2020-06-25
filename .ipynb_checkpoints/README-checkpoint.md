@@ -11,25 +11,25 @@
     
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
  
-## The Art of Conversation \[[original](http://imagespoetrysilence.blogspot.com/2018/01/the-art-of-conversation-by-rene.html)\] :open_file_folder: `magritte/`
-### RENÉ MAGRITTE  
+## The Art of Conversation \[[original](http://imagespoetrysilence.blogspot.com/2018/01/the-art-of-conversation-by-rene.html)\]  
+### RENÉ MAGRITTE  :open_file_folder: `magritte/`
   
 ![](magritte/cloud_conversations.gif)  
 
 
-## Mobile Rouge Sur Blanc \[[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)\] :open_file_folder: `squa[red]/`
-### JULIO LE PARC
+## Mobile Rouge Sur Blanc \[[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)\]  
+### JULIO LE PARC :open_file_folder: `squa[red]/`
    
 ![](squa\[red\]/squa\[red\]_dark.gif)
 ![](squa\[red\]/squa\[red\]_ppl.gif)  
 
 
 
-## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\] :open_file_folder: `xxx/`
-### JULIO LE PARC  
+## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\]  
+### JULIO LE PARC  :open_file_folder: `xxx/`
 ![](xxx/stills/cc4.png)
 
 
 
-## The Red Act
+## The Red Act  :open_file_folder: `redact/`
 ![](redact/redact.gif)

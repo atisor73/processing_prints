@@ -16,7 +16,9 @@
   
 ![](magritte/cloud_conversations.gif)  
 
-:open_file_folder: `magritte/`
+
+[`asdf`](ex.com)
+:open_file_folder: [`magritte/`](https://github.com/atisor73/processing_prints/tree/master/magritte)
 
 
 ## Mobile Rouge Sur Blanc \[[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)\]  
@@ -25,7 +27,7 @@
 ![](squa\[red\]/squa\[red\]_dark.gif)
 ![](squa\[red\]/squa\[red\]_ppl.gif)  
 
-:open_file_folder: `squa[red]/`
+:open_file_folder: [`squa[red]/`](https://github.com/atisor73/processing_prints/tree/master/squa%5Bred%5D)
 
 
 
@@ -34,10 +36,10 @@
 ![](xxx/stills/cc4.png)
 <img src="xxx/gifs/xxx_replica_motion.gif" width=810>
 
-:open_file_folder: `xxx/`
+:open_file_folder: [`xxx/`](https://github.com/atisor73/processing_prints/tree/master/xxx)
 
 
 ## The Red Act  
 ![](redact/redact.gif)
 
-:open_file_folder: `redact/`
+:open_file_folder: [`redact/`](https://github.com/atisor73/processing_prints/tree/master/redact)

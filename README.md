@@ -15,12 +15,21 @@
 ### RENÉ MAGRITTE
   
 ![](magritte/cloud_conversations.gif)
+:open_file_folder: `magritte/`
 
 ## Mobile Rouge Sur Blanc \[[original](https://www.artsy.net/artwork/julio-le-parc-mobile-rouge-sur-blanc-1)\]
 ### JULIO LE PARC
    
 ![](squa\[red\]/squa\[red\]_dark.gif)
 ![](squa\[red\]/squa\[red\]_ppl.gif)
+:open_file_folder: `squa[red]/`
+
+
+## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\]
+### JULIO LE PARC
+:open_file_folder: `xxx/`
+
+
 
 ## The Red Act
 ![](redact/redact.gif)

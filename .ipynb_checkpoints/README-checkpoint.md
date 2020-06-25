@@ -30,9 +30,12 @@
 ## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\]  
 ### JULIO LE PARC  
 ![](xxx/stills/cc4.png)
+![](xxx/gifs/xxx_replica_motion.gif)
+
 :open_file_folder: `xxx/`
 
 
 ## The Red Act  
 ![](redact/redact.gif)
+
 :open_file_folder: `redact/`

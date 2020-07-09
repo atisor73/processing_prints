@@ -7,7 +7,7 @@
 - everything here is made with [Processing.py](https://py.processing.org/)
 - note that modifications must be Jython-friendly (no numpy, no f-strings, etc.)
 - with default setup (no command line), all `.py` files should be run as `.pde` files
-- `IMAGEMAGICK` is used to convert folders of `.png's` to `.gif's`
+- `IMAGEMAGICK` is used to convert stack of `.png's` to `.gif's`
     
 <!-- - there are directions to get things running on any IDE, MUST be on version 1.8.0_202 of Java ... -->
  
@@ -18,7 +18,7 @@
 
 :open_file_folder: `magritte/`
 
-## BlOBULES \[[inspiration](https://twitter.com/kGolid/status/1279204707618209793)\]
+## BLOBULES \[[inspiration](https://twitter.com/kGolid/status/1279204707618209793)\]
 ### KJETIL GOLID
 ![](blobule/blobule1_drip.gif)
 ![](blobule/blobule1_rotate.gif)

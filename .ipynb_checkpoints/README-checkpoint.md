@@ -3,7 +3,7 @@
     
 - a record of teaching my computer to draw
 - after constantly running out of storage, this repo will serve as a digital sketchbook 
-- most pieces draw from other stuff, and I've linked the originals! 
+- most pieces draw inspiration from other works and artists, and I've linked the originals! 
 - everything here is made with [Processing.py](https://py.processing.org/)
 - note that modifications must be Jython-friendly (no numpy, no f-strings, etc.)
 - with default setup (no command line), all `.py` files should be run as `.pde` files
@@ -19,7 +19,7 @@
 :open_file_folder: `magritte/`
 
 ## BlOBULES \[[inspiration](https://twitter.com/kGolid/status/1279204707618209793)\]
-### KGETIL GOLID
+### KJETIL GOLID
 ![](blobule/blobule1_drip.gif)
 ![](blobule/blobule1_rotate.gif)
 
@@ -43,7 +43,7 @@
 :open_file_folder: `xxx/`
 
 
-## The Red Act  
+<!-- ## The Red Act  
 ![](redact/redact.gif)
 
-:open_file_folder: `redact/`
+:open_file_folder: `redact/` -->

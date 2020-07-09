@@ -18,7 +18,7 @@
 
 :open_file_folder: `magritte/`
 
-## BLOBULES \[[inspiration](https://twitter.com/kGolid/status/1279204707618209793)\]
+## Blobules \[[inspiration](https://twitter.com/kGolid/status/1279204707618209793)\]
 ### KJETIL GOLID
 ![](blobule/blobule1_drip.gif)
 ![](blobule/blobule1_rotate.gif)

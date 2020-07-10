@@ -20,8 +20,8 @@
 
 ## Blobules \[[inspiration](https://twitter.com/kGolid/status/1279204707618209793)\]
 ### KJETIL GOLID
-![](blobule/blobule1_drip.gif)
-![](blobule/blobule1_rotate.gif)
+![](blobule/blobs_drip.gif)
+![](blobule/blobs_rotate.gif)
 
 :open_file_folder: `blobule/`
 

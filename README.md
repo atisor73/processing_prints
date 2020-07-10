@@ -35,7 +35,7 @@
 :open_file_folder: `squa[red]/`
 
 
-## ROTATION IN RED AND BLACK \[[original](https://www.metmuseum.org/art/collection/search/815338)\]  
+## Rotation in Red and Black \[[original](https://www.metmuseum.org/art/collection/search/815338)\]  
 ### JULIO LE PARC  
 ![](xxx/stills/cc4.png)
 <img src="xxx/gifs/xxx_replica_motion.gif" width=830>

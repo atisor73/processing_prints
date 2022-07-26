@@ -43,7 +43,3 @@
 :open_file_folder: `xxx/`
 
 
-<!-- ## The Red Act  
-![](redact/redact.gif)
-
-:open_file_folder: `redact/` -->
